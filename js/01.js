@@ -4,3 +4,4 @@ function buzz(a){
   }
   return a;
 }
+buzz 1つの自然数を引数にとる関数
